@@ -6,3 +6,5 @@
  [Exercise 7]https://www.zybuluo.com/2014301020174/note/558044
 
 [Exercise 8]https://www.zybuluo.com/2014301020174/note/565985
+
+[Exercise 10]https://www.zybuluo.com/2014301020174/note/581809
