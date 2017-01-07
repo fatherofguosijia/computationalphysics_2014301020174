@@ -14,4 +14,4 @@
 
 [Exercise 13](https://www.zybuluo.com/2014301020174/note/605195)
 
-[Exercise 14](https://github.com/breakingDboy/computational_physics_2013301020120/blob/master/Cannon/Co_Cannon)
+[Exercise 14](https://www.zybuluo.com/2014301020174/note/625156)
